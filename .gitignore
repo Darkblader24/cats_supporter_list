@@ -1,0 +1,9 @@
+__pycache__
+.idea
+*.pyc
+.cache
+tmp
+*.blend
+*.blend1
+tests/armatures/*.png
+.coverage
