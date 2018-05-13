@@ -1,4 +1,11 @@
 {
+  "news": [
+    {
+      "info": "Happy Halloween!",
+      "icon": "INFO",
+      "custom_icon": "halloween"
+    }
+  ],
   "supporters": [
     {
       "displayname": "Xeverian",
