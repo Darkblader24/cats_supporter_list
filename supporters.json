@@ -1,11 +1,11 @@
 {
   "news": [
     {
-      "info1": "Welcome to the cats dev build!",
+      "info2": "Welcome to the cats dev build!",
       "icon": "INFO"
     },
     {
-      "info": "Happy Halloween!",
+      "info2": "Happy Halloween!",
       "custom_icon": "halloween"
     }
   ],
