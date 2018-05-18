@@ -1,12 +1,17 @@
 {
   "news": [
     {
-      "info2": "Welcome to the cats dev build!",
+      "info": "Have a nice weekend!",
+      "custom_icon": "fire"
+    },
+    {
+      "info2": "Happy",
       "icon": "INFO"
     },
     {
       "info2": "Happy Halloween!",
-      "custom_icon": "halloween"
+      "custom_icon": "halloween",
+      "disabled": false
     }
   ],
   "supporters": [
