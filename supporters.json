@@ -12,6 +12,11 @@
       "info2": "Happy Halloween!",
       "custom_icon": "halloween",
       "disabled": false
+    },
+    {
+      "info2": "TEST",
+      "custom_icon": "halloween",
+      "disabled": false
     }
   ],
   "supporters": [
