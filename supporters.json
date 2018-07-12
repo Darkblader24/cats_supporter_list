@@ -68,7 +68,9 @@
       "startdate": "2018-04-05"
     },{
       "displayname": "abrownbag",
-      "startdate": "2018-04-05"
+      "startdate": "2018-04-05",
+      "info": "Cancelled April",
+      "disabled": true
     },{
       "displayname": "Azuth",
       "startdate": "2018-04-05"
@@ -77,7 +79,9 @@
       "startdate": "2018-04-05"
     },{
       "displayname": "azupwn",
-      "startdate": "2018-04-05"
+      "startdate": "2018-04-05",
+      "info": "Cancelled May",
+      "disabled": true
     },{
       "displayname": "m o t h",
       "startdate": "2018-04-05"
@@ -98,13 +102,17 @@
       "startdate": "2018-04-05"
     },{
       "displayname": "Lil Clone",
-      "startdate": "2018-04-05"
+      "startdate": "2018-04-05",
+      "info": "Cancelled April",
+      "disabled": true
     },{
       "displayname": "Naranar",
       "startdate": "2018-04-05"
     },{
       "displayname": "liquid (retso)",
-      "startdate": "2018-04-05"
+      "startdate": "2018-04-05",
+      "info": "Cancelled May",
+      "disabled": true
     },{
       "displayname": "Mute_",
       "startdate": "2018-04-05"
