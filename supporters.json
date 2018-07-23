@@ -32,7 +32,8 @@
       "description": "yare yare daze"
     },{
       "displayname": "Tupper",
-      "startdate": "2018-02-05"
+      "startdate": "2018-02-05",
+      "disabled": true
     },{
       "displayname": "idea",
       "startdate": "2018-03-05"
@@ -239,6 +240,10 @@
       "displayname": "Murakuumoo",
       "startdate": "2018-07-02",
       "info": "Was added 4 months late."
+    },{
+      "displayname": "Tupper",
+      "startdate": "2018-02-05",
+      "tier": 1
     }
   ]
 }
