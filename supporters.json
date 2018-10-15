@@ -261,6 +261,12 @@
       "description": "We <3 the VRChat Community",
       "website": "https://vrcmods.com/",
       "tier": 1
+    },{
+      "displayname": "Lazlo",
+      "startdate": "2018-10-15",
+      "description": "WTB Intelligence",
+      "website": null,
+      "tier": 1
     }
   ]
 }
