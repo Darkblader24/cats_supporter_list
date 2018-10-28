@@ -270,9 +270,12 @@
     },{
       "displayname": "Lazlo",
       "startdate": "2018-10-15",
-      "description": "WTB Intelligence",
+      "description": "WTB Intelligence ",
       "website": null,
       "tier": 1
+    },{
+      "displayname": "Rincewind",
+      "startdate": "2018-10-128"
     }
   ]
 }
