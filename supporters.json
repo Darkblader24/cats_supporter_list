@@ -15,16 +15,8 @@
       "custom_icon": "halloween",
       "disabled": true
     },{
-      "info": "Translations do not work currently!",
-      "icon": "ERROR",
-      "disabled": false
-    },{
-      "info": "Google changed their API, we are working on a fix.",
-      "custom_icon": "empty",
-      "disabled": false
-    },{
-      "info": "Join our Discord for updates, see Credits panel.",
-      "custom_icon": "empty",
+      "info": "Translations are fixed in CATS v0.11.3! Please update.",
+      "icon": "INFO",
       "disabled": false
     }
   ],
