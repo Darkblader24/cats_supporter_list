@@ -14,6 +14,18 @@
       "info": "Happy Halloween!",
       "custom_icon": "halloween",
       "disabled": true
+    },{
+      "info": "Translations do not work currently!",
+      "icon": "ERROR",
+      "disabled": false
+    },{
+      "info": "Google changed their API, we are working on a fix.",
+      "custom_icon": "empty",
+      "disabled": false
+    },{
+      "info": "Join our Discord for updates, see Credits panel.",
+      "custom_icon": "empty",
+      "disabled": false
     }
   ],
   "supporters": [
@@ -277,10 +289,10 @@
       "tier": 1
     },{
       "displayname": "Rincewind",
-      "startdate": "2018-10-128"
+      "startdate": "2018-10-28"
     },{
       "displayname": "Vanilla Neko",
-      "startdate": "2018-11-108",
+      "startdate": "2018-11-08",
       "description": "Please give me headpats! ^_^\n"
     }
   ]
