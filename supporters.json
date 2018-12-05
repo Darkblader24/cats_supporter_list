@@ -18,6 +18,10 @@
       "info": "Translations are fixed in CATS v0.11.5! Please update.",
       "icon": "INFO",
       "disabled": true
+    },{
+      "info": "It is Wednesday, my dudes",
+      "custom_icon": "wednesday",
+      "disabled": false
     }
   ],
   "supporters": [
