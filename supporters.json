@@ -1,9 +1,6 @@
 {
   "news": [
     {
-      "info": "It is wednesday my dudes",
-      "disabled": true
-    },{
       "info": "Have a nice weekend!",
       "custom_icon": "fire",
       "disabled": true
@@ -21,7 +18,7 @@
     },{
       "info": "It is Wednesday, my dudes",
       "custom_icon": "wednesday",
-      "disabled": false
+      "disabled": true
     }
   ],
   "supporters": [
