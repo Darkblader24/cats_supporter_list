@@ -5,9 +5,6 @@
       "custom_icon": "fire",
       "disabled": true
     },{
-      "info2": "Happy",
-      "icon": "INFO"
-    },{
       "info": "Happy Halloween!",
       "custom_icon": "halloween",
       "disabled": true
@@ -326,6 +323,9 @@
       "startdate": "2018-12-15"
     },{
       "displayname": "ARobotDevil",
+      "startdate": "2018-12-15"
+    },{
+      "displayname": "Whittz",
       "startdate": "2018-12-15"
     }
   ]
