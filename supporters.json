@@ -23,7 +23,7 @@
     },{
       "info": "Happy 2019!",
       "custom_icon": "fireworks",
-      "disabled": false
+      "disabled": true
     }
   ],
   "supporters": [
