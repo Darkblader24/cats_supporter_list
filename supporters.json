@@ -47,7 +47,9 @@
     },{
       "displayname": "Tupper",
       "startdate": "2018-02-05",
-      "disabled": true
+      "disabled": true,
+      "ignored": true,
+      "info": "this entry is just here for the original position"
     },{
       "displayname": "idea",
       "startdate": "2018-03-05",
@@ -99,11 +101,6 @@
     },{
       "displayname": "goblox",
       "startdate": "2018-04-05"
-    },{
-      "displayname": "azupwn",
-      "startdate": "2018-04-05",
-      "info": "Cancelled May",
-      "disabled": true
     },{
       "displayname": "m o t h",
       "startdate": "2018-04-05",
