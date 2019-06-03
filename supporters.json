@@ -72,7 +72,8 @@
       "startdate": "2018-01-05"
     },{
       "displayname": "Derpmare",
-      "startdate": "2018-02-05"
+      "startdate": "2018-02-05",
+      "disabled": true
     },{
       "displayname": "Chikan Celeryman",
       "startdate": "2018-03-05",
@@ -103,7 +104,8 @@
       "disabled": true
     },{
       "displayname": "m o t h",
-      "startdate": "2018-04-05"
+      "startdate": "2018-04-05",
+      "disabled": true
     },{
       "displayname": "Yorx",
       "startdate": "2018-05-21"
@@ -115,7 +117,8 @@
       "startdate": "2018-04-05"
     },{
       "displayname": "Shanie",
-      "startdate": "2018-04-05"
+      "startdate": "2018-04-05",
+      "disabled": true
     },{
       "displayname": "Sifu",
       "startdate": "2018-04-05",
@@ -160,7 +163,8 @@
     },{
       "displayname": "Bones",
       "startdate": "2018-01-22",
-      "info": "PP 50"
+      "info": "PP 50",
+      "disabled": true
     },{
       "displayname": "Axo_",
       "startdate": "2018-04-05",
@@ -183,7 +187,8 @@
       "startdate": "2018-04-05",
       "description": "I do what I do, and make what I make. For the people I love and care so much about",
       "website": "https://www.twitch.tv/nekonatsukivr",
-      "tier": 1
+      "tier": 1,
+      "disabled": true
     },{
       "displayname": "AlphaSatanOmega",
       "startdate": "2018-04-05",
@@ -204,7 +209,8 @@
       "disabled": true
     },{
       "displayname": "Brindin_wF",
-      "startdate": "2018-04-05"
+      "startdate": "2018-04-05",
+      "disabled": true
     },{
       "displayname": "Serry Jane",
       "startdate": "2018-04-05"
@@ -254,15 +260,16 @@
       "description": "DON'T CLICK ME!\n",
       "website": "https://www.twitch.tv/hectikgamez",
       "tier": 1,
-      "disabled": false,
-      "info": "declined november, check back later"
+      "disabled": true,
+      "info": "declined november, check back later. june still declined"
     },{
       "displayname": "Oclac",
       "startdate": "2018-06-17",
       "disabled": true
     },{
       "displayname": "Netrosis",
-      "startdate": "2018-06-20"
+      "startdate": "2018-06-20",
+      "disabled": true
     },{
       "displayname": "Krisu.Miushy",
       "startdate": "2018-06-21",
@@ -288,7 +295,7 @@
     },{
       "displayname": "baffler",
       "startdate": "2018-08-07",
-      "info": "Was added 2 months late."
+      "info": "Was added 2 months late. ended may, remove july"
     },{
       "displayname": "Aliquem",
       "startdate": "2018-08-07",
@@ -300,13 +307,15 @@
       "startdate": "2018-08-07",
       "description": "We <3 the VRChat Community",
       "website": "https://vrcmods.com/",
-      "tier": 1
+      "tier": 1,
+      "disabled": true
     },{
       "displayname": "Sir Matrix",
       "startdate": "2018-09-16",
       "description": "Just a man that likes to play vrchat when he's not doing army stuff!\n",
       "website": "http://www.thematrixservers.com/forums/index.php",
-      "tier": 1
+      "tier": 1,
+      "disabled": true
     },{
       "displayname": "Lazlo",
       "startdate": "2018-10-15",
