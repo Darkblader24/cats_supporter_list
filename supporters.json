@@ -35,9 +35,11 @@
       "website": "https://www.mycoolwebsite.com    - Makes the name clickable with a link to a website. Setting it to null makes it a button but not clickable",
       "tier": 1,
       "disabled": true,
+      "ignored": true,
 
       "other info 1": " tier: 1                    - Puts the name on top of the list. Only 1 is available currently",
-      "other info 2": " disabled: true             - Hides that person in the list"
+      "other info 2": " disabled: true             - Hides that person in the list",
+      "other info 3": " ignored: true               - Makes that person not getting reported by the supporter check"
     },{
       "displayname": "Xeverian",
       "startdate": "2018-01-05",
@@ -192,7 +194,8 @@
     },{
       "displayname": "AlphaSatanOmega",
       "startdate": "2018-04-05",
-      "info": "He can stay <3"
+      "info": "He can stay <3",
+      "ignored": true
     },{
       "displayname": "Curio",
       "startdate": "2018-04-05"
@@ -283,7 +286,7 @@
       "website": "https://www.twitch.tv/atiriontv",
       "tier": 1
     },{
-      "displayname": "Murakuumoo",
+      "displayname": "Murakumo",
       "startdate": "2018-07-02",
       "info": "Was added 4 months late."
     },{
