@@ -107,7 +107,8 @@
       "disabled": true
     },{
       "displayname": "Yorx",
-      "startdate": "2018-05-21"
+      "startdate": "2018-05-21",
+      "disabled": true
     },{
       "displayname": "Tomnautical",
       "startdate": "2018-04-05"
@@ -375,7 +376,8 @@
       "startdate": "2019-02-25"
     },{
       "displayname": "Yoraiz0r",
-      "startdate": "2019-03-25"
+      "startdate": "2019-03-25",
+      "description": "Yoraiz0r is a really awesome supporter"
     },{
       "displayname": "honnmaguro",
       "startdate": "2019-04-05",
