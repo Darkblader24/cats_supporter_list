@@ -433,7 +433,8 @@
       "tier": 1
     },{
       "displayname": "Ziggy_Stardust_",
-      "startdate": "2019-08-11"
+      "startdate": "2019-08-11",
+      "disabled": true
     },{
       "displayname": "Anon27",
       "startdate": "2019-08-17"
