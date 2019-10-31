@@ -7,7 +7,7 @@
     },{
       "info": "Happy Halloween!",
       "custom_icon": "halloween",
-      "disabled": true
+      "disabled": false
     },{
       "info": "Merry Christmas and Happy Holidays!",
       "custom_icon": "christmas",
