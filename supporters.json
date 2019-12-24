@@ -11,7 +11,7 @@
     },{
       "info": "Merry Christmas and Happy Holidays!",
       "custom_icon": "christmas",
-      "disabled": true
+      "disabled": false
     },{
       "info": "Translations are fixed in CATS v0.11.5! Please update.",
       "icon": "INFO",
@@ -21,7 +21,7 @@
       "custom_icon": "wednesday",
       "disabled": true
     },{
-      "info": "Happy 2019!",
+      "info": "Happy 2020!",
       "custom_icon": "fireworks",
       "disabled": true
     }
