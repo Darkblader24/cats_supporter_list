@@ -11,7 +11,7 @@
     },{
       "info": "Merry Christmas and Happy Holidays!",
       "custom_icon": "christmas",
-      "disabled": false
+      "disabled": true
     },{
       "info": "Translations are fixed in CATS v0.11.5! Please update.",
       "icon": "INFO",
@@ -23,7 +23,7 @@
     },{
       "info": "Happy 2020!",
       "custom_icon": "fireworks",
-      "disabled": true
+      "disabled": false
     }
   ],
   "supporters": [
@@ -63,7 +63,8 @@
       "startdate": "2018-01-05"
     },{
       "displayname": "Ainrehtea Dal'Nalirtu",
-      "startdate": "2018-02-05"
+      "startdate": "2018-02-05",
+      "disabled": true
     },{
       "displayname": "Raikin",
       "startdate": "2018-03-05",
@@ -229,7 +230,8 @@
       "disabled": true
     },{
       "displayname": "BemVR",
-      "startdate": "2018-05-14"
+      "startdate": "2018-05-14",
+      "disabled": true
     },{
       "displayname": "Hizling",
       "startdate": "2018-05-14",
