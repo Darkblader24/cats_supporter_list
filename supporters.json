@@ -390,9 +390,7 @@
       "disabled": true
     },{
       "displayname": "honnmaguro",
-      "startdate": "2019-04-05",
-      "tier": 1,
-      "disabled": true
+      "startdate": "2019-04-05"
     },{
       "displayname": "Subcom",
       "startdate": "2019-04-23",
@@ -467,6 +465,9 @@
     },{
       "displayname": "BertBOT",
       "startdate": "2020-02-16"
+    },{
+      "displayname": "Kally",
+      "startdate": "2020-02-24"
     }
   ]
 }
