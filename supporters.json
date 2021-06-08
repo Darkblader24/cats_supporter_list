@@ -568,9 +568,10 @@
       "displayname": "Blue-kun",
       "startdate": "2021-06-03"
     },{
-		  "displayname": "Furtrap",
-		  "startdate": "2021-08-30",
-		  "description": "We are CATS, not CAN'Ts. ZING!!!" 
+      "displayname": "Furtrap",
+      "startdate": "2021-08-30",
+      "description": "We are CATS, not CAN'Ts. ZING!!!",
+      "website": "https://linktr.ee/furtrap"
     }
   ]
 }
