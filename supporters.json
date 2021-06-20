@@ -569,9 +569,13 @@
       "startdate": "2021-06-03"
     },{
       "displayname": "Furtrap",
-      "startdate": "2021-08-30",
-      "description": "We are CATS, not CAN'Ts. ZING!!!",
-      "website": "https://linktr.ee/furtrap"
+      "startdate": "2021-06-20",
+      "description": "We're CATS, not CAN'Ts. ZING!!!",
+      "website": "https://linktr.ee/furtrap",
+      "tier": 1
+    },{
+      "displayname": "Yawn.",
+      "startdate": "2021-06-20"
     }
   ]
 }
