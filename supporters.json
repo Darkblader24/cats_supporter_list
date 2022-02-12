@@ -605,6 +605,18 @@
       "description": "yay!",
       "tier": 1,
       "website": "http://gumroad.com/torinyan"
+    },{
+      "displayname": "Rezobyte",
+      "startdate": "2022-02-12",
+      "description": "Just a robotic floof that enjoys editing avatars and learning new things ^w^",
+      "tier": 1,
+      "website": "https://www.twitch.tv/rezobyte"
+    },{
+      "displayname": "Aayla",
+      "startdate": "2021-02-12"
+    },{
+      "displayname": "MythicalCuddles",
+      "startdate": "2021-02-12"
     }
   ]
 }
